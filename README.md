@@ -21,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0494-target-sum) |
+## String
+|  |
+| ------- |
+| [2887-sort-vowels-in-a-string](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/2887-sort-vowels-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [2887-sort-vowels-in-a-string](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/2887-sort-vowels-in-a-string) |
 <!---LeetCode Topics End-->
