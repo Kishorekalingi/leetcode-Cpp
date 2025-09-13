@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0062-unique-paths) |
 | [0322-coin-change](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0518-coin-change-ii) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0062-unique-paths) |
 | [3462-vowels-game-in-a-string](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/3462-vowels-game-in-a-string) |
 ## Brainteaser
 |  |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
