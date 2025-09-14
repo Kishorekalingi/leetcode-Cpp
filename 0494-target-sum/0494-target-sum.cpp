@@ -29,8 +29,8 @@ public:
             totalSum += nums[i];
         }
 
-        if (totalSum < abs(target) || (totalSum + target) % 2) return 0;
+        if (totalSum < abs(target) || (totalSum - target) % 2) return 0;
 
-        return fun(n, (totalSum + target) / 2, nums);
+        return fun(n, (totalSum - target) / 2, nums);
     }
 };
