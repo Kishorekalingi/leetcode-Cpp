@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0322-coin-change](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0518-coin-change-ii) |
 | [1250-longest-common-subsequence](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/1250-longest-common-subsequence) |
 ## Breadth-First Search
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2887-sort-vowels-in-a-string](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/2887-sort-vowels-in-a-string) |
