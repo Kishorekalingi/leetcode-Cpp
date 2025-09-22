@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0518-coin-change-ii) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -68,10 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
 | ------- |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Combinatorics
 |  |
