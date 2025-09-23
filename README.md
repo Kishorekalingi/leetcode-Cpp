@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0115-distinct-subsequences) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0322-coin-change](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0322-coin-change) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0583-delete-operation-for-two-strings) |
