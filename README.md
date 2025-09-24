@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0072-edit-distance) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0516-longest-palindromic-subsequence) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Two Pointers
 |  |
@@ -127,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0064-minimum-path-sum) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
