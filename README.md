@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0066-plus-one) |
+| [0120-triangle](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0204-count-primes](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0204-count-primes) |
 | [0322-coin-change](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0322-coin-change) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0115-distinct-subsequences) |
+| [0120-triangle](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0322-coin-change](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0494-target-sum) |
