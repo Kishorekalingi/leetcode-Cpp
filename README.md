@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0204-count-primes) |
+| [3336-water-bottles-ii](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/3462-vowels-game-in-a-string) |
 ## Brainteaser
 |  |
@@ -140,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0044-wildcard-matching) |
+## Simulation
+|  |
+| ------- |
+| [3336-water-bottles-ii](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/3336-water-bottles-ii) |
 <!---LeetCode Topics End-->
