@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0066-plus-one) |
@@ -99,11 +100,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0042-trapping-rain-water) |
 ## Stack
 |  |
