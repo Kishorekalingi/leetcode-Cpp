@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0518-coin-change-ii) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Dynamic Programming
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/2887-sort-vowels-in-a-string) |
 ## Math
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0042-trapping-rain-water) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Stack
 |  |
 | ------- |
@@ -148,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3336-water-bottles-ii](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/3336-water-bottles-ii) |
+## Binary Search
+|  |
+| ------- |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/2392-successful-pairs-of-spells-and-potions) |
 <!---LeetCode Topics End-->
