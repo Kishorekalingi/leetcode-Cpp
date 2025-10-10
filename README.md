@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0518-coin-change-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Dynamic Programming
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0583-delete-operation-for-two-strings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1170-shortest-common-supersequence](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Two Pointers
 |  |
 | ------- |
