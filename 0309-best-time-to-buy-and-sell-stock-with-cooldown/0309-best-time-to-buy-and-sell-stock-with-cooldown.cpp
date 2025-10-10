@@ -1,25 +1,21 @@
 class Solution {
-
+private:
+    int fun(int i,int b,vector<int>& prices,vector<vector<int>>& dp){
+        if(i >= prices.size()) return 0;
+        if(dp[i][b] != -1)return dp[i][b];
+        if(b == 0){
+            dp[i][b] = max(-prices[i]+fun(i+1,1,prices,dp),fun(i+1,0,prices,dp));
+        }
+        else{
+            dp[i][b] = max(prices[i]+fun(i+2,0,prices,dp),fun(i+1,1,prices,dp));
+        }
+        return dp[i][b];
+    }
 public:
     int maxProfit(vector<int>& prices) {
         int n = prices.size();
-        vector<int> cur(2, 0);       
-        vector<int> front1(2, 0);    
-        vector<int> front2(2, 0); 
-        for(int i=n-1;i>=0;i--){
-            for(int b=0;b<2;b++){
-                if(b==0){
-                    cur[b] = max(-prices[i]+ front1[1],front1[0]);
-                }
-                else{
-                    cur[b] = max(prices[i]+ front2[0],front1[1]);
-                }
-                
-            }
-            front2 = front1;
-            front1 = cur;
-        }
-        return cur[0];
+        vector<vector<int>> dp(n,vector<int>(2,-1));
+        return fun(0,0,prices,dp);
     
     }
 };
