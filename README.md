@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0204-count-primes](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0204-count-primes) |
+| [0300-longest-increasing-subsequence](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0494-target-sum) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0300-longest-increasing-subsequence](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0494-target-sum) |
@@ -161,5 +163,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0300-longest-increasing-subsequence) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/2392-successful-pairs-of-spells-and-potions) |
 <!---LeetCode Topics End-->
