@@ -1,14 +1,14 @@
 class Solution {
 private:
-    int fun(int ind,int prev,vector<int>& nums,vector<vector<int>>& dp){
-        if(ind == nums.size()) return 0;
-        if(dp[ind][prev+1] != -1) return dp[ind][prev+1];
-        int notPick = fun(ind+1,prev,nums,dp);
+    int fun(int i,int prev,vector<int>& nums,vector<vector<int>>& dp){
+        if(i == nums.size()) return 0;
+        if(dp[i][prev+1] != -1) return dp[i][prev+1];
+        int notPick = fun(i+1,prev,nums,dp);
         int pick = 0;
-        if(prev == -1|| nums[ind] > nums[prev]){
-            pick = 1 + fun(ind+1,ind,nums,dp);
+        if(prev == -1 || nums[i] > nums[prev]) {
+            pick =  1 + fun(i+1,i,nums,dp);
         }
-        return dp[ind][prev+1] = max(pick,notPick);
+        return dp[i][prev+1] = max(pick,notPick);
     }
 public:
     int lengthOfLIS(vector<int>& nums) {
