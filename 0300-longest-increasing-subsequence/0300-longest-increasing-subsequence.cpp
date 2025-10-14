@@ -13,7 +13,17 @@ private:
 public:
     int lengthOfLIS(vector<int>& nums) {
         int n = nums.size();
-        vector<vector<int>> dp(n,vector<int>(n+1,-1));
-        return fun(0,-1,nums,dp);
+        vector<vector<int>> dp(n+1,vector<int>(n+1,0));
+        for(int i = n-1;i>=0;i--){
+            for(int p = i-1;p>=-1;p--){
+                int notTake = dp[i+1][p+1];
+                int take = 0;
+                if(p == -1 || nums[i] > nums[p]){
+                    take = 1 + dp[i+1][i+1];
+                }
+                dp[i][p+1] = max(notTake,take);
+            }
+        }
+        return dp[0][0];
     }
 };
