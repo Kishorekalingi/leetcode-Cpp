@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0954-maximum-sum-circular-subarray) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/3242-count-elements-with-maximum-frequency) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0954-maximum-sum-circular-subarray) |
 | [1170-shortest-common-supersequence](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -170,4 +172,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0954-maximum-sum-circular-subarray) |
+## Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0954-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
