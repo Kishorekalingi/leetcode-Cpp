@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0042-trapping-rain-water) |
+| [0056-merge-intervals](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0066-plus-one) |
 | [0120-triangle](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0120-triangle) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0056-merge-intervals) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/2887-sort-vowels-in-a-string) |
 ## Math
