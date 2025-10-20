@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0954-maximum-sum-circular-subarray) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/3242-count-elements-with-maximum-frequency) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2887-sort-vowels-in-a-string](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3336-water-bottles-ii](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/3336-water-bottles-ii) |
 ## Binary Search
 |  |
