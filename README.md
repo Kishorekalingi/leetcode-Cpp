@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0494-target-sum) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/2174-next-greater-numerically-balanced-number) |
 ## String
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0204-count-primes) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3336-water-bottles-ii](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/3462-vowels-game-in-a-string) |
 ## Brainteaser
@@ -103,11 +105,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
 | ------- |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Combinatorics
@@ -151,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/0204-count-primes) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Number Theory
 |  |
 | ------- |
