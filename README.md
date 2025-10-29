@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3336-water-bottles-ii](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/3462-vowels-game-in-a-string) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Brainteaser
 |  |
 | ------- |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/3676-smallest-number-with-all-set-bits) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Divide and Conquer
 |  |
