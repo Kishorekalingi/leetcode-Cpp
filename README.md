@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Dynamic Programming
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3336-water-bottles-ii](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/3462-vowels-game-in-a-string) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Kishorekalingi/leetcode-Cpp/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Brainteaser
 |  |
